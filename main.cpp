@@ -9,13 +9,7 @@
 using namespace std;
 
 int main() {
-    /*
-    cout << "Напиши чего ты хочешь: ";
-    string userWish;
-    getline(cin,userWish);
-    cout << "Если хочется  " << userWish << " - перехочется." << endl; 
-    cout << "Сиди учись, пока ещё студент" << endl;
-    */
+    
     string baseName;
     readJson(baseName);
 
